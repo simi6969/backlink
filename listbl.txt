@@ -19,4 +19,3 @@ edu.pk |DA 31|PA 37|
 gov.za |DA 37|PA 40|
 gov.br |DA 41|PA 21|
 .edu |DA 24 |PA 20|
-go.id |DA 31|PA 36|
